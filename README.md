@@ -52,9 +52,3 @@ A modern inventory management system built with PySide6 and SQLite for Infoware 
   ```bash
   pyinstaller --onefile --windowed main.py
   ```
-
-## Video Walkthrough
-(Include a link here if you record a demo)
-
-## Contact
-Assignment for Infoware India internship (Sheerisha, HR) 
